@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="match_parent">
+
+
+<TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:id="@+id/tv"
+        android:visibility="gone"
+        />
+
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/selector_shadow_albumbg_blue_h"
+        android:clickable="true"
+       />
+
+
+</RelativeLayout>

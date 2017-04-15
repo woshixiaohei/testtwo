@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mydemo</string>
+
+    <string name="download_link_error_hint">模板更新失败（无效下载地址）请重启机顶盒，\n若仍无法解决请拨打4006-597-010协助</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="android:Theme">
+        <item name="android:listDivider">@drawable/divider_bg</item>
+    </style>
+
+    <style name="AppHoriTheme" parent="android:Theme">
+        <item name="android:listDivider">@drawable/divider_horizontal_bg</item>
+    </style>
+
+</resources>
